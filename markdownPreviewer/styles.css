@@ -1,0 +1,19 @@
+body{
+    background-color: #ececec;
+  }
+  
+  textarea, #preview {
+    height: 100vh;
+    margin-bottom: 40px;
+  }
+  
+  #editor {
+    border: none;
+    background-color: black;
+    color: white;
+  }
+  
+  #preview {
+    background-color: white;
+    padding: 8px;
+  }
