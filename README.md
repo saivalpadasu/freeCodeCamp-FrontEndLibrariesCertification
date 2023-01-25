@@ -1,4 +1,4 @@
-# freeCodeCamp-Front End Libraries Certification
+# freeCodeCamp-Front End Libraries Development Certification
 
 #### For me, this was an entirely new configuration. Here I studied the fundamentals of a number of the well-known front-end frameworks and technologies, including Bootstrap, JQuery, SASS, React JS, and Redux. During this certification they gave me modules and tasks to complete while they explained each topic to me, and in the conclusion, I was given 5 projects to complete in order to earn the certificate. These projects were as follows:
   - Random Quote Machine
